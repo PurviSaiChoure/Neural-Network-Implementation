@@ -25,4 +25,4 @@ Pre-trained weights and biases are hardcoded to:
 1. **Dependencies**: Requires `numpy`.
 2. **Run the Code**:
    ```python
-   python FNN.py ```
+   python FNN.py 
